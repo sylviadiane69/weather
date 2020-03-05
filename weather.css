@@ -1,0 +1,26 @@
+header {
+    font-size: xx-large;
+    font-weight: lighter;
+    text-align: center;
+    font-family: Georgia;
+    background-color: aqua;
+}
+
+.container1 {
+    font-family: Georgia;
+    font-weight: bold;
+    color: blue;
+}
+
+main {
+    font-size: large;
+    font-family: Georgia;
+    font-weight: bold;
+    color: mediumblue;
+}
+
+.card-body {
+    background-color: lightskyblue;
+}
+
+
